@@ -1,7 +1,7 @@
 # Start Tech Dev Program
 
 <h1 align="center";>
-  <img alt="coverr" title="coverr" src="Assets/startechCover.png" width="300px" />
+  <img alt="coverr" title="coverr" src="Assets/startechCover.png" width="320px" />
 </h1>
 
 <p align="center">
