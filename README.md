@@ -56,7 +56,7 @@ Esta formaçnao está sendo desenvolvida com as seguintes tecnologias:
                       <small>© 2021 Jair Neto. All rights reserved.<a href="https://www.linkedin.com/in/jair-monteiro-2a4a55aa/"
                               target="_blank" margin-bottom="2px"></a>
                               
-  <p align="left">
+  <p align="left" margin-top="10px">
   <a href="https://twitter.com/JairMonteiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/jair-monteiro-2a4a55aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
