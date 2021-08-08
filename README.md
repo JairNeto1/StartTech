@@ -39,5 +39,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [x] JavaScript
 - [x] Git/Github
 - [x] Metodologias Ágeis
+- [ ] React
 - [ ] Graphql
 - [ ] Node
