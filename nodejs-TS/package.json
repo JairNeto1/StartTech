@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-ts",
+  "version": "1.0.0",
+  "description": "projeto de testes do TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairNeto1/startech.git"
+  },
+  "keywords": [
+    "typescript",
+    "usuario",
+    "criacao"
+  ],
+  "author": "Jair Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairNeto1/startech/issues"
+  },
+  "homepage": "https://github.com/JairNeto1/startech#readme",
+  "dependencies": {
+    "@types/node": "^16.4.13",
+    "query-string": "^7.0.1",
+    "typescript": "^4.3.5"
+  }
+}

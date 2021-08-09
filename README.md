@@ -48,10 +48,8 @@ Esta formaçnao está sendo desenvolvida com as seguintes tecnologias:
 ---
 
  <footer>
-      <div class="row text-center"></div>
-              </div>
-                <small>© 2021 Jair Neto. All rights reserved.<a href="https://www.linkedin.com/in/jair-monteiro-2a4a55aa/"
-                target="_blank"></a>
+      <small>© 2021 Jair Neto. All rights reserved.<a href="https://www.linkedin.com/in/jair-monteiro-2a4a55aa/"
+      target="_blank"></a>
   
                             
   <p align="left" >
