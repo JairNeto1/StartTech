@@ -1,9 +1,15 @@
 import { Router } from 'express'
+import User ffrom './app/models/User'
 
-const routes = New Router()
+const routes = New Router();
 
-router.get('/' (req, res) => {
-retur res.json({message: 'OKAY'})
+routes.get('/' async (req, res) => {
+  const user =  await User.create ({
+    name: 'Douglas',
+    email: 'douglas@email.com',
+    password_hash:'123456',
+  })
+  return res.json(user);
 
 })
 
