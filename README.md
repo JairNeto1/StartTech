@@ -43,7 +43,7 @@ Esta formaçnao está sendo desenvolvida com as seguintes tecnologias:
 - [ ] React
 - [x] Graphql
 - [x] Node parte I
-- [ ] Node parte II
+- [x] Node parte II
 
 ---
 
