@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
+
+    <script src="scrip.js" defer></script>
+
     <title>Initial Form</title>
   </head>
 
@@ -80,21 +83,23 @@
             <p>Estado civil:</p>
             <input
               type="radio"
-              id="solteiro"
-              name="solteiro"
-              value="solteiro"
-              required
-            />
-            <label for="casado">Casado</label>
-            <br />
-            <input
-              type="radio"
               id="casado"
-              name="casado"
+              name="estado_civil"
               value="casado"
               required
             />
-            <label for="masculino">Solteiro</label>
+            <label for="casado">Casado</label>
+            <input
+              type="radio"
+              id="solteiro"
+              name="estado_civil"
+              value="solteiro"
+              required
+            />
+
+            <label for="solteiro">Solteiro</label>
+
+            <br />
           </div>
 
           <br /><br />
